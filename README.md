@@ -5,6 +5,13 @@
 
 В качестве базы знаний используется загруженный корпус текстов глоссария сайта Securitylab (материалы распространяются по лицензии Creative Commons). В дальнейшем проект предполагается использовать для разработки диалогового ассистента на базе LLM (https://github.com/AndrewDOrlov/cybersecurity_bot).
 
+#### Некоторые примеры из результатов работы:
+![изображение](https://github.com/AndrewDOrlov/semantic_search_QA_telebot/assets/116432159/2ce4b1c5-ae7e-496c-92b0-4ab16a811d28)
+![изображение](https://github.com/AndrewDOrlov/semantic_search_QA_telebot/assets/116432159/149de7f0-b8e1-49f1-8421-d8fc1831acc1)
+![изображение](https://github.com/AndrewDOrlov/semantic_search_QA_telebot/assets/116432159/ad198902-2acc-4d29-adb4-e9a4c1da4ce7)
+![изображение](https://github.com/AndrewDOrlov/semantic_search_QA_telebot/assets/116432159/f2d32590-7408-42d1-a248-6dee34811a1b)
+
+
 #### Материалы репозитория:
 - semantic_search.ipynb: загрузка, настройка и применение модели семантического поиска. Получение векторных представлений (эмбеддингов) текстов базы знаний и семантический поиск наиболее близких текстов.
 - QA.ipynb: загрузка, настройка и применение модели поиска ответа на вопрос в данном тексте.
